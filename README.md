@@ -9,4 +9,3 @@
   <li><a href='https://github.com/eriklindernoren/Keras-GAN'>Keras-GAN </a><br>
 </ul>
 
-# Yolo V3
